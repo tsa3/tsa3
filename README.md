@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?tsa3
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsa3)](https://github.com/anuraghazra/github-readme-stats)
+
 
